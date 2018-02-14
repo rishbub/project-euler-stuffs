@@ -1,5 +1,4 @@
 # project-euler-stuffs
-<<<<<<< HEAD
 
 Solutions for problems found on projecteuler.net.
 
